@@ -10,7 +10,13 @@
  # Repository Content
  source codes are here: 
   * gate_buzzer_sensor_light_button.ino
-  * 
+  * sensor_light.ino
+  
+ Schematic Diagrams:
+ 
+ orignal Pictures:
+ 
+ 
  
   
  # Requirements and Materials
