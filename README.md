@@ -4,6 +4,5 @@
 	 
 # Modification
   This project will behave similar to the military base in grand theft auto 5. In that case, when you initially enter that restricted area then they give us a warning to step back but no one cares about that warning because everyone is playing for fun. After that they start firing from their equipment to eliminate the player and this process keeps going on until the player loses the cops. We are trying to implement that idea in our project. That was interesting because the things we are playing online on our playstations are becoming real. And we are very thankful that we get this opportunity of making these things in real. 
-	
-	![alt text][pic1]
-	[pic1]: 
+  
+  [pic 1] : https://github.com/asn925/GTA/issues/1#issue-683868168
