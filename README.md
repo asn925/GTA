@@ -7,7 +7,7 @@
   
   [pic 1] : https://github.com/asn925/GTA/issues/1#issue-683868168
   
- # Repository Content
+# Repository Content
  source codes are here: 
   * gate_buzzer_sensor_light_button.ino
   * sensor_light.ino
@@ -16,12 +16,9 @@
  
  orignal Pictures:
  * pic 1.jpg
- * 
+ * pic 2.jpg
  
- 
- 
-  
- # Requirements and Materials
+# Requirements and Materials
   
   materials are very easy to find and cheap as well. we got lot of our products from here: digikey.ca
   
@@ -33,4 +30,9 @@
  * couple of jumper wires 
  * male to female wires
  * cardboards
+ 
+# Building Process
+# Usage
+# Team Role
+# Credits
   
