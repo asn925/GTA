@@ -14,7 +14,7 @@
   
  Schematic Diagrams:
  * https://github.com/asn925/GTA/issues/2#issue-683884424
- * 
+ * https://github.com/asn925/GTA/issues/3#issue-683885123
  
  orignal Pictures:
  * pic 1.jpg
@@ -33,8 +33,21 @@
  * male to female wires
  * cardboards
  
-# Building Process
 # Usage
+
+this whole arduino project is based on ultrasonic sensor that is generally used in space shuttles and our ships. this thing is quite useful because it could be use at house and companies. on the other hand you can have a better look of this project in GTA5 under military base. it is little bit similar to that one. 
+
 # Team Role
+
+The build team consists of:
+
+Anmol Soni ( major in hardware, project and writeup, minor in coding)
+Tarandeep Singh (major in coding, minor in hardware)
+Manpreet Singh Chahal (major in project setup, videos, minor in coding)
+
 # Credits
+
+https://www.tutorialspoint.com/arduino/arduino_ultrasonic_sensor.htm
+https://lastminuteengineers.com/
+these are the couple of websites that will help you in working with arduinos and ultrasonic sensors. 
   
