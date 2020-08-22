@@ -13,6 +13,8 @@
   * sensor_light.ino
   
  Schematic Diagrams:
+ * https://github.com/asn925/GTA/issues/2#issue-683884424
+ * 
  
  orignal Pictures:
  * pic 1.jpg
