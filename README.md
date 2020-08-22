@@ -41,9 +41,9 @@ this whole arduino project is based on ultrasonic sensor that is generally used 
 
 The build team consists of:
 
-Anmol Soni ( major in hardware, project and writeup, minor in coding)
-Tarandeep Singh (major in coding, minor in hardware)
-Manpreet Singh Chahal (major in project setup, videos, minor in coding)
+* Anmol Soni ( major in hardware, project and writeup, minor in coding)
+* Tarandeep Singh (major in coding, minor in hardware)
+* Manpreet Singh Chahal (major in project setup, videos, minor in coding)
 
 # Credits
 
